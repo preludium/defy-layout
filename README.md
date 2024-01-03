@@ -1,4 +1,4 @@
-# My Dygma Defy layers
+# My Dygma Defy layout
 
 ## Layers
 
