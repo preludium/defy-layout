@@ -16,8 +16,26 @@
 ### Copy
 ![Copy](./assets/copy.png)
 
-### Delete
-![Delete](./assets/delete.png)
+### Backspace
+
+Delete previous word when held
+
+![Backspace](./assets/backspace.png)
 
 ### Terminal
+
+Open Warp Terminal window when held
+
 ![Terminal](./assets/terminal.png)
+
+### Delete
+
+Delete next word when held
+
+![Delete](./assets/delete.png)
+
+### Palette
+
+Open Visual Studio Code command palette when held
+
+![Palette](./assets/palette.png)
